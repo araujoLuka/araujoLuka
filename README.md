@@ -1,0 +1,5 @@
+- 👋 Whats'up, I’m **@araujoLuka**
+- 💻 I'm currently coding in VBA and C
+- 🌱 I’m currently learning GameDev Techniques, Python and SQL
+- 📫 If you want to talk with me send me an [e-mail](mailto:lucasaraujo1@ufpr.br)
+- 🌟 Take a look at my repositories and follow to be aware to upcoming projects
